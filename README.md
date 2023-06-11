@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pramod J M</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
+
+<img alt="Coder GIF" align="right "height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+
 <p align="left">
 <a href="https://linkedin.com/in/pramod jawalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramod jawalkar" height="30" width="40" /></a>
 </p>
