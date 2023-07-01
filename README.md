@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React Nodejs Express MongoDB**
 
-- 📫 How to reach me **pramojm4@gmail.com**
+- 📫 How to reach me **pramodjm4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
