@@ -1,6 +1,6 @@
 ![logo](https://github.com/jmPramod/jmPramod/blob/main/banner2.png)
 <h1 align="center">Hi 👋, I'm Pramod J M</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmpramod&label=Profile%20views&color=0e75b6&style=flat" alt="jmpramod" /> </p>
 
