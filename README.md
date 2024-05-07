@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmpramod&label=Profile%20views&color=0e75b6&style=flat" alt="jmpramod" /> </p>
 
-- 🔭 I’m currently working on **Social Media(Personal Project)**
+- 🔭 I’m currently working on **E-commerce (Personal Project)**
 
-- 🌱 I’m currently learning **React native,jest**
+- 🌱 I’m currently learning **Docker **
 
 - 💬 Ask me about **React Nodejs Express MongoDB**
 
