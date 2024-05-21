@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **E-commerce (Personal Project)**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Docker AWS**
 
 - 💬 Ask me about **React Nodejs Express MongoDB**
 
