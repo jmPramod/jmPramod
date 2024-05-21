@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmpramod&label=Profile%20views&color=0e75b6&style=flat" alt="jmpramod" /> </p>
 
-- 🔭 I’m currently working on **E-commerce (Personal Project)**
+- 🔭 I’m currently working on **E-commerce (Personal Project:https://shop-more-fe.netlify.app/)**
 
-- 🌱 I’m currently learning **Docker AWS**
+- 🌱 I’m currently learning **Docker, AWS**
 
-- 💬 Ask me about **React Nodejs Express MongoDB**
+- 💬 Ask me about **React, Nodejs, Express, MongoDB**
 
 - 📫 How to reach me **pramodjm4@gmail.com**
 
